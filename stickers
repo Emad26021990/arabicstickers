@@ -1,0 +1,14 @@
+{
+  "stickers": [
+    {
+      "id": "1",
+      "name": "Happy",
+      "url": "https://raw.githubusercontent.com/YOUR_USERNAME/my-stickers/main/stickers/sticker1.png"
+    },
+    {
+      "id": "2",
+      "name": "Love",
+      "url": "https://raw.githubusercontent.com/YOUR_USERNAME/my-stickers/main/stickers/sticker2.png"
+    }
+  ]
+}
